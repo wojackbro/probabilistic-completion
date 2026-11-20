@@ -1,0 +1,29 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Problem and formulation}{2}{section.1}%
+\contentsline {paragraph}{Block structure and leakage.}{2}{section*.2}%
+\contentsline {paragraph}{Completion as a masked-observation problem.}{2}{section*.3}%
+\contentsline {paragraph}{Data quality note.}{2}{section*.4}%
+\contentsline {section}{\numberline {2}Experimental protocol}{2}{section.2}%
+\contentsline {paragraph}{Split.}{2}{section*.5}%
+\contentsline {paragraph}{Observation generator.}{2}{section*.6}%
+\contentsline {paragraph}{Two architectures, one capacity.}{3}{section*.7}%
+\contentsline {paragraph}{Training and metrics.}{3}{section*.8}%
+\contentsline {section}{\numberline {3}The learned representation}{3}{section.3}%
+\contentsline {section}{\numberline {4}Depth}{4}{section.4}%
+\contentsline {section}{\numberline {5}Probabilistic readout}{5}{section.5}%
+\contentsline {paragraph}{Objective.}{5}{section*.13}%
+\contentsline {paragraph}{Is the readout doing anything?}{5}{section*.14}%
+\contentsline {paragraph}{Temperature.}{6}{section*.16}%
+\contentsline {section}{\numberline {6}Varying the observation}{6}{section.6}%
+\contentsline {section}{\numberline {7}Reliability: one informative case, two misleading ones}{7}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Global picture}{7}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}The informative case: $\sigma $ ranks difficulty correctly}{7}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}First misleading case: it is least trustworthy where it matters most}{8}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Second misleading case: a regime the covariates cannot describe}{8}{subsection.7.4}%
+\contentsline {paragraph}{The statistical version of the same failure.}{9}{section*.24}%
+\contentsline {subsection}{\numberline {7.5}What the two failures have in common}{10}{subsection.7.5}%
+\contentsline {section}{\numberline {8}Conclusions}{10}{section.8}%
+\contentsline {section}{\numberline {9}Reproducibility}{11}{section.9}%
+\contentsline {paragraph}{Deliverables.}{11}{section*.25}%
+\contentsline {paragraph}{Software.}{11}{section*.26}%
+\contentsline {paragraph}{Seeds and selection.}{11}{section*.27}%
